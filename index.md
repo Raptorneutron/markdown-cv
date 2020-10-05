@@ -3,11 +3,7 @@ layout: cv
 title: Borja Fernández
 ---
 
-<<<<<<< HEAD
-![](./foto.jpg){float:right}
-=======
 <img id='foto' src='./foto.jpg'></img>
->>>>>>> 758b01a343bcb43a51fd8d8586b63a9f7a59c7a1
 
 # Borja Fernández Ortiz
 
@@ -15,19 +11,10 @@ title: Borja Fernández
 
 <div id="webaddress">
   <b>Correo:</b> <a href='mailto://ferorborja@gmail.com'>ferorborja@gmail.com</a>
-<<<<<<< HEAD
-  **Teléfono:** 634621401
-</div>
-
-
-
-* * *
-=======
   Teléfono: 634621401
 </div>
 
 <!-- **Teléfono:** 634621401 -->
->>>>>>> 758b01a343bcb43a51fd8d8586b63a9f7a59c7a1
 
 <!--
   ### Sobre mí
