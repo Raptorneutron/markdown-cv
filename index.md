@@ -14,7 +14,7 @@ title: Borja Fernández
   **Teléfono:** 634621401
 </div>
 
-**Teléfono:** 634621401
+<!-- **Teléfono:** 634621401 -->
 
 * * *
 
