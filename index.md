@@ -48,7 +48,7 @@ title: Borja Fernández
 ## Idiomas
 
 -   Nativo en castellano y valenciano
--   Nivel medio de inglés, buena comprensión lectora
+-   Nivel alto de inglés, buena comprensión lectora
 
 ## Demás competencias
 
