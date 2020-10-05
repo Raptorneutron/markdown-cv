@@ -22,18 +22,15 @@ title: Borja Fernández
 -->
 
 ## Titulaciones regladas
-
 -   _2020-presente_: Ciclo Formativo de Grado Superior en Administración de Sistemas Informáticos en Red (IES Serra Perenxisa; Torrent, Valencia)
 -   _2018-2020_: Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes (IES Serra Perenxisa; Torrent, Valencia)
 
 ## Titulaciones no regladas
-
 -   _2020_: Cisco CCNA 1
 -   _2020_: Cisco IT Essentials
 -   _2020_: Cisco Introduction to Cybersecurity
 
 ## Competencias
-
 -   Administración de servidores Windows Server (2008 en adelante) y Linux, configuración de
     servicios DHCP, DNS, Active Directory, acceso remoto por SSH, compartición de recursos en red.
 -   Administración de clientes Windows y Linux, cuentas de usuario, monitorización de recursos,
@@ -46,11 +43,9 @@ title: Borja Fernández
 -   Conocimiento básico en Git
 
 ## Idiomas
-
 -   Nativo en castellano y valenciano
 -   Nivel alto de inglés, buena comprensión lectora
 
 ## Demás competencias
-
 -   Gran capacidad de aprendizaje, al haber durante mucho siempre autodidacta
 -   Jugador habitual de CTFs y demás competiciones de hacking (HackTheBox, Vulnhub, OverTheWire, etc.)
