@@ -189,3 +189,7 @@ strong {
 	display: none;
 	visibility: hidden;
 }
+
+#foto{
+	float:right;
+}
