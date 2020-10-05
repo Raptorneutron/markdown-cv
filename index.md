@@ -3,7 +3,7 @@ layout: cv
 title: Borja Fernández
 ---
 
-<img id='foto' src='./foto.jpg'></img>
+<img id='foto' src='./foto.jpg'>
 
 # Borja Fernández Ortiz
 
@@ -15,11 +15,6 @@ title: Borja Fernández
 </div>
 
 <!-- **Teléfono:** 634621401 -->
-
-<!--
-  ### Sobre mí
-¡Hola! Soy Borja, estudiante de informática y gran aficionado a los ordenadores. Desde pequeño he estado delante de un ordenador, instalando Linux por primera vez a los 10 años, y aprendiendo a programar por mí mismo a los 15. Actualmente estoy estudiando ASIR, viniendo desde el grado medio.
--->
 
 ## Titulaciones regladas
 -   _2020-presente_: Ciclo Formativo de Grado Superior en Administración de Sistemas Informáticos en Red (IES Serra Perenxisa; Torrent, Valencia)
