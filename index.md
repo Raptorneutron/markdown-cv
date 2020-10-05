@@ -3,7 +3,7 @@ layout: cv
 title: Borja Fernández
 ---
 
-![](./foto.jpg){float:right}
+![](./foto.jpg id='imagen')
 
 # Borja Fernández Ortiz
 
@@ -11,7 +11,7 @@ title: Borja Fernández
 
 <div id="webaddress">
   <b>Correo:</b> <a href='mailto://ferorborja@gmail.com'>ferorborja@gmail.com</a>
-  **Teléfono:** 634621401
+  Teléfono: 634621401
 </div>
 
 <!-- **Teléfono:** 634621401 -->
