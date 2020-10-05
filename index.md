@@ -3,7 +3,7 @@ layout: cv
 title: Borja Fernández
 ---
 
-![](./foto.jpg)
+<img id='foto' src='./foto.jpg'></img>
 
 # Borja Fernández Ortiz
 
