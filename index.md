@@ -1,7 +1,6 @@
 
 # Borja Fernández Ortiz
-
-<div style= 'float:right'><img src='./foto.jpg'></div>
+![](./foto.jpg){float:right}
 > Técnico informático
 
 <div id="webaddress">
