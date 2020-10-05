@@ -187,7 +187,9 @@ strong {
 	display: none;
 }
 
-
+#foto{
+	float: right;
+}
 
 /*
 @media only screen and (max-width: 480px) {
