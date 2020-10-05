@@ -11,6 +11,7 @@ title: Borja Fernández
 
 <div id="webaddress">
   <b>Correo:</b> <a href='mailto://ferorborja@gmail.com'>ferorborja@gmail.com</a>
+  **Teléfono:** 634621401
 </div>
 
 **Teléfono:** 634621401
