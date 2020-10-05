@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Borja Fernández
+---
+
 ![](./foto.jpg){float:right}
 
 # Borja Fernández Ortiz
