@@ -1,5 +1,5 @@
 
-# Borja Fernández Ortiz <div style= 'float:right'><img src='/home/borja/curriculum/foto.jpg'></div>
+# Borja Fernández Ortiz <div style= 'float:right'><img src='foto.jpg'></div>
 > Técnico informático
 
 <div id="webaddress">
@@ -32,6 +32,8 @@ gestión de almacenamiento local.
 - Conocimiento elemental en seguridad informática.
 - Conocimiento básico de desarrollo web (HTML, CSS, Javascript)
 - Conocimiento medio en suites ofimáticas (MS Office, OpenOffice, LibreOffice)
+- Conocimiento básico en programación en Python
+- Conocimiento básico en Git
 
 ## Idiomas
 - Nativo en castellano y valenciano
