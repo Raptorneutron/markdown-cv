@@ -16,8 +16,6 @@ title: Borja Fernández
 
 <!-- **Teléfono:** 634621401 -->
 
-* * *
-
 <!--
   ### Sobre mí
 ¡Hola! Soy Borja, estudiante de informática y gran aficionado a los ordenadores. Desde pequeño he estado delante de un ordenador, instalando Linux por primera vez a los 10 años, y aprendiendo a programar por mí mismo a los 15. Actualmente estoy estudiando ASIR, viniendo desde el grado medio.
